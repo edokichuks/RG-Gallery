@@ -1,4 +1,4 @@
-name: rgphotos
+name: rg
 
 concurrency:
   group: $-$

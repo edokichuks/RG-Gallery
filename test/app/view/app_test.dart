@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:rgphotos/app/app.dart';
-import 'package:rgphotos/counter/counter.dart';
+import 'package:rg/app/app.dart';
+import 'package:rg/counter/counter.dart';
 
 void main() {
   group('App', () {

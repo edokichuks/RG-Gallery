@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(rgphotos LANGUAGES CXX)
+project(rg LANGUAGES CXX)
 
-set(BINARY_NAME "rgphotos")
+set(BINARY_NAME "rg")
 
 cmake_policy(SET CMP0063 NEW)
 

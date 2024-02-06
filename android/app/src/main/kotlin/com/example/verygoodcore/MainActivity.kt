@@ -1,4 +1,4 @@
-package com.example.verygoodcore.rgphotos
+package com.example.verygoodcore.rg
 
 import io.flutter.embedding.android.FlutterActivity
 

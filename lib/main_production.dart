@@ -1,5 +1,5 @@
-import 'package:rgphotos/app/app.dart';
-import 'package:rgphotos/bootstrap.dart';
+import 'package:rg/app/app.dart';
+import 'package:rg/bootstrap.dart';
 
 void main() {
   bootstrap(() => const App());
